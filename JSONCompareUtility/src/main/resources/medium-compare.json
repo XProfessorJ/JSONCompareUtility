@@ -1,5 +1,5 @@
 {
-  "user": {
+  "users": {
     "id": 1,
     "name": "Tom",
     "address": {
@@ -10,7 +10,7 @@
     "hobbies": ["reading", "swimming", "coding"],
     "isActive": false
   },
-  "products": [
+  "productd": [
     {
       "id": 101,
       "name": "Laptop",

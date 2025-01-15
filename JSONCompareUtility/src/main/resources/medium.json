@@ -1,26 +1,26 @@
 {
-  "user": {
+  "users": {
     "id": 1,
     "name": "Tom",
     "address": {
       "street": "123 Main St",
-      "city": "New York",
-      "postalCode": "10001"
+      "city": "Los Angeles",
+      "postalCode": "90001"
     },
-    "hobbies": ["reading", "traveling", "coding"],
-    "isActive": true
+    "hobbies": ["reading", "swimming", "coding"],
+    "isActive": false
   },
-  "products": [
+  "productd": [
     {
       "id": 101,
       "name": "Laptop",
-      "price": 999.99,
-      "available": true
+      "price": 899.99,
+      "available": false
     },
     {
-      "id": 102,
-      "name": "Smartphone",
-      "price": 699.99,
+      "id": 103,
+      "name": "Tablet",
+      "price": 499.99,
       "available": true
     }
   ],
@@ -28,9 +28,9 @@
     "name": "Tech Corp",
     "employees": [
       {"name": "Tom", "role": "Engineer"},
-      {"name": "Jerry", "role": "Manager"}
+      {"name": "Spike", "role": "HR"}
     ],
-    "location": "California"
+    "location": "Texas"
   },
   "timestamp": "2025-01-15T12:00:00Z"
 }
