@@ -1,0 +1,36 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Tom",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "postalCode": "10001"
+    },
+    "hobbies": ["reading", "traveling", "coding"],
+    "isActive": true
+  },
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "price": 999.99,
+      "available": true
+    },
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "price": 699.99,
+      "available": true
+    }
+  ],
+  "company": {
+    "name": "Tech Corp",
+    "employees": [
+      {"name": "Tom", "role": "Engineer"},
+      {"name": "Jerry", "role": "Manager"}
+    ],
+    "location": "California"
+  },
+  "timestamp": "2025-01-15T12:00:00Z"
+}

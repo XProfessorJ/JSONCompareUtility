@@ -1,0 +1,14 @@
+{
+  "Tom": {
+    "age": 23,
+    "city": "New York"
+  },
+  "Jerry": {
+    "age": 24,
+    "city": "New Jersey"
+  },
+  "Spike": {
+    "age": 25,
+    "city": "California"
+  }
+}

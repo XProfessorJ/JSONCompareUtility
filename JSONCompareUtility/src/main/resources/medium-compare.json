@@ -1,0 +1,36 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Tom",
+    "address": {
+      "street": "123 Main St",
+      "city": "Los Angeles",
+      "postalCode": "90001"
+    },
+    "hobbies": ["reading", "swimming", "coding"],
+    "isActive": false
+  },
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "price": 899.99,
+      "available": false
+    },
+    {
+      "id": 103,
+      "name": "Tablet",
+      "price": 499.99,
+      "available": true
+    }
+  ],
+  "company": {
+    "name": "Tech Corp",
+    "employees": [
+      {"name": "Tom", "role": "Engineer"},
+      {"name": "Spike", "role": "HR"}
+    ],
+    "location": "Texas"
+  },
+  "timestamp": "2025-01-15T12:00:00Z"
+}
